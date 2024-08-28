@@ -1,16 +1,14 @@
-## Hi there 👋
+# <p align="center">Giới thiệu về EduSoft</p>
 
-<!--
-**edusoft-edu/edusoft-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;&nbsp;&nbsp;&nbsp; EduSoft là đơn vị tiên phong trong lĩnh vực ứng dụng công nghệ thông tin vào giáo dục tại Việt Nam. Với sứ mệnh nâng cao chất lượng dạy và học, chúng tôi không ngừng nghiên cứu và phát triển các phần mềm giáo dục, đáp ứng nhu cầu đa dạng của các cấp học. Đặc biệt, EduSoft tập trung vào phát triển các giải pháp giáo dục STEM (Science, Technology, Engineering, Mathematics - Khoa học, Công nghệ, Kỹ thuật, Toán học).  
+&nbsp;&nbsp;&nbsp;&nbsp; EduSoft hướng đến mục tiêu trở thành đối tác tin cậy của các trường học, góp phần xây dựng một nền giáo dục Việt Nam hiện đại, hội nhập quốc tế. Chúng tôi cam kết không ngừng đổi mới, sáng tạo để mang đến những sản phẩm và dịch vụ tốt nhất cho khách hàng.
 
-Here are some ideas to get you started:
+<p align="right"> --- EduSoft's CEO --- </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">==========</p>
+
+Công ty cổ phần phát triển phần mềm Giáo dục EduSoft  
+Địa chỉ: 123 Đường Công Nghệ, Quận 1, TP.HCM  
+Mã số thuế: 0123456789  
+Số điện thoại: (028) 1234 5678
+
